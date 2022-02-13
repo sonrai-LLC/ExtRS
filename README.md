@@ -1,5 +1,7 @@
 # ExtRS
-ExtRS provides a framework for extending the capabilities of SSRS. Common public API endpoints and clients are consolidated into a Swiss Army knife data and reporting extension of sorts. API operations to get SSRS management including management tools for configuring users, security and charting historical and realtime data. Additionally, the general purpose ExtRS API operations can alert users, get weather, sports, news, data-driven alerts and lots more.
+ExtRS provides a framework for extending the capabilities of the report data models provided by SSRS that determine what can be rendered on a report. With ExtRS, (prounounced "extras"), common public API endpoints and SDK clients are consolidated into a Swiss Army knife of supplemental, publicly available data that can compliment your reporting. API operations provide SSRS user management, granular report item security and other metric datasets and values that may prove useful for one or more of your reports. 
+
+Additionally, the general purpose ExtRS API operations can alert users, get weather, sports, news info, data-driven alerts and lots more.
 
 SSRS ain't dead- it's just a niche tool that hasn't fully realized its potential- yet. 😊
 
