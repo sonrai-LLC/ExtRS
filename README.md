@@ -13,4 +13,4 @@ This package includes the following components:
 - ExtRS.dll
 
 # Related SSRS Tools
-- [ExtRSAuth](https://github.com/sonrai-LLC/ExtRSAuth) for enabling the further and more custom extension of the Microsoft Custom Security Sample.
+- [ExtRSAuth](https://github.com/sonrai-LLC/ExtRSAuth) for enabling further extension of the SSRS Microsoft Custom Security Sample.
